@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164057830540",
+    "project_id": "fir-with-react-native-e3f8e",
+    "storage_bucket": "fir-with-react-native-e3f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164057830540:android:f8d4451cbe46b2f58a17a9",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuorXPWMnYma3sM5002d3jVKJF88gsrXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
